@@ -115,8 +115,11 @@
 @layer base {
   * {
     @apply border-border outline-ring/50;
+
   }
   body {
     @apply bg-background text-foreground;
+    background-image: radial-gradient(circle, hsl(var(--muted)) 1px, transparent 1px);
+    background-size: 1.5rem 1.5rem;
   }
 }
