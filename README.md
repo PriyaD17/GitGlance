@@ -15,11 +15,7 @@ Git-Glance is a beautifully designed web application that allows you to instantl
 
 | Light Mode                                     | Dark Mode                                    |
 | ---------------------------------------------- | -------------------------------------------- |
-| ![Light Mode Screenshot](./docs/light-mode.png) | ![Dark Mode Screenshot](./docs/dark-mode.png) |
-
-| Loading State (Skeletons)                            | Animated Landing Page                              |
-| ---------------------------------------------------- | -------------------------------------------------- |
-| ![Loading State Screenshot](./docs/loading-state.png) | ![Landing Page Screenshot](./docs/landing-page.png) |
+| ![Light Mode Screenshot](./public/light.png) | ![Dark Mode Screenshot](./public/dark.png) |
 
 </details>
 
