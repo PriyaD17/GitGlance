@@ -138,7 +138,7 @@ export default function Home() {
                     ))}
                     {user && repos.length === 0 && !loading && (
                       <div className="md:col-span-2 text-center text-muted-foreground mt-8 bg-card p-6 rounded-lg">
-                        This user doesn't have any public repositories yet.
+                        This user does not have any public repositories yet.
                       </div>
                     )}
                   </div>
